@@ -2,7 +2,7 @@
 <div align="center">
 
 ## About The Project
-Welcome to the future of home purchasing. Using web3 technologies Keystone Properties allows users to buy and sell physical properties using NFts as the "deed" that changes hands. Keystone can mint the NFTs locally after ownership has been proven and then allows those homes to be put on the market and purchased using cryptocurrency. Non users can browse the site, but until a wallet is attached will not be able to purchase anything. Keystone even holds the properties and the fund while it is in escrow to ensure both parties will get what they want. 
+Welcome to the future of home purchasing. Using web3 technologies Keystone Properties allows users to buy and sell physical properties using NFTs as the "deed" that changes hands. Keystone can mint the NFTs locally after ownership has been proven and then allows those homes to be put on the market and purchased using cryptocurrency. Non users can browse the site, but until a wallet is attached will not be able to purchase anything. Keystone even holds the properties and the fund while it is in escrow to ensure both parties will get what they want. 
 
 ![site screenshot](assets/KeystoneScreenshot.png)
 
